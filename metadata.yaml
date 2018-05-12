@@ -1,0 +1,29 @@
+_repo: Italian-AlpsSketches-in-the-Mountains-of-Ticino-Lombardy-the-Trentino-and-Venetia_45972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freshfield, Douglas William
+    alias: Freshfield, Douglas W. (Douglas William)
+    birthdate: 1845
+    deathdate: 1934
+    gutenberg_agent_id: '43550'
+    url: http://www.gutenberg.org/2009/agents/43550
+description: ''
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Alps, Italian (Italy) -- Description and travel'
+title: 'Italian Alps
+
+  Sketches in the Mountains of Ticino, Lombardy, the Trentino, and Venetia'
+url: http://www.gutenberg.org/ebooks/45972
